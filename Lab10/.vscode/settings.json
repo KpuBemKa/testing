@@ -46,6 +46,9 @@
         "algorithm": "cpp",
         "list": "cpp",
         "array": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "bit": "cpp",
+        "clocale": "cpp",
+        "ctime": "cpp"
     }
 }
